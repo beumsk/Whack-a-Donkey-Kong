@@ -1,2 +1,6 @@
 # Whack-a-Donkey-Kong
- Play this Whack a mole themed Donkey Kong created for a #CodePenChallenge
+Smash all the Donkey Kongs in this special Whack a mole!
+
+TODO:
+* adapt speed to device
+* prevent multiple click by apparition
